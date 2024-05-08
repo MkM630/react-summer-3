@@ -7,3 +7,7 @@
 <h3>2. The right left corner has the option of selection the number</h3>
 <h3>3.This is the dice pic(which may not comming due to deploy problem) and also clicable </h3>
 <img width="458" alt="image" src="https://github.com/MkM630/react-summer-3/assets/140013191/2eac5d78-842c-4a40-beee-c54b47c47f38">
+<h2>This page has two button reset score and rule button</h2>
+<p>1. Reset score will help to reset the game</p>
+<p>2. Rule button will show the rule</p>
+<img width="422" alt="image" src="https://github.com/MkM630/react-summer-3/assets/140013191/3865f68c-e643-4d5f-873b-842cea6edf6e">
